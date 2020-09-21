@@ -1,24 +1,11 @@
-# zaxyau-xenkwanki
+# 座標変換器
+## 概要
+真球の座標から距離や面積を概算するもの
 
-## Project setup
-```
-npm install
-```
+## 記述言語
+- Typescript
+- Pug
+- SCSS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用ライブラリ
+- Vue.js (Vue CLI使用)
